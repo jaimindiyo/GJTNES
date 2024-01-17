@@ -1,0 +1,1373 @@
+{
+    "data": [
+        {
+        "gameType":"pk",
+        "gameName": "Minecraft-Game",
+        "gameImage": "https://trynowgames.com/thumbs/-minecraft-online--minecraft-online-minecraft-logo-online-game-dirt-block-illustrations-concept-design-isolated-186775550_small.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/-minecraft-online",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Subway-Surfers",
+        "gameImage": "https://img.gamemonetize.com/t98ouu7fy5oze8qrc0bh9295xsweb0ju/512x384.jpg",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/subway-surfers",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Temple-Run",
+        "gameImage": "https://trynowgames.com/thumbs/temple-runner-2-512x384.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/temple-run",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Slap-Fest-Games",
+        "gameImage": "https://trynowgames.com/thumbs/slap-master-3d-slap-master-3d-512x512_small.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/slap-fest-games",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Pro-Fairy-Princess-Dress-Up-Vs-Witch-Makeup",
+        "gameImage": "https://trynowgames.com/thumbs/pro-fairy-princess-dress-up-vs-witch-makeup-512x384.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/pro-fairy-princess-dress-up-vs-witch-makeup",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bottle-Shoot",
+        "gameImage": "https://trynowgames.com/full/bottle-shoot",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/thumbs/bottle-shoot-512x384.webp",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Nail-Runner",
+        "gameImage": "https://trynowgames.com/thumbs/nail-runner-512x384.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/nail-runner",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fruit-Chop",
+        "gameImage": "https://www.gamezop.com/_next/image?url=https%3A%2F%2Fstatic.gamezop.com%2FrkWfy2pXq0r%2Fm%2Fcover.jpg&w=1200&q=75",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/fruit-chop",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Road-Racer",
+        "gameImage": "https://trynowgames.com/thumbs/road-racer-thumb.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/road-racer",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cross-Sprint",
+        "gameImage": "https://trynowgames.com/thumbs/cross-sprint-512x512.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/cross-sprint",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Truck-Parking-Pro",
+        "gameImage": "https://trynowgames.com/thumbs/truck-parking-pro-thumb.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/truck-parking-pro",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Snake-Run",
+        "gameImage": "https://trynowgames.com/thumbs/snake-run-512x512.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/snake-run",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Airplane-Parking-Mania-3d",
+        "gameImage": "https://trynowgames.com/thumbs/airplane-parking-mania-3d-512x384.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/airplane-parking-mania-3d",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Flexi-Snake",
+        "gameImage": "https://www.gamezop.com/_next/image?url=https%3A%2F%2Fstatic.gamezop.com%2FSkQwnwnbK%2Fm%2Fcover.jpg&w=1080&q=75",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/flexi-snake",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Speed-Racer",
+        "gameImage": "https://trynowgames.com/thumbs/speed-racer-thumb.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/speed-racer",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Tank-Wars",
+        "gameImage": "https://trynowgames.com/thumbs/tank-wars--thumb.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/tank-wars",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Stack-Maze-Puzzle",
+        "gameImage": "https://trynowgames.com/thumbs/stack-maze-puzzle-512x512.webp",
+        "category": "Popular Game",
+        "gameURL": "https://trynowgames.com/full/stack-maze-puzzle",
+        "desc": "Popular Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Dirt-Bike-Mad-Skills",
+        "gameImage": "https://trynowgames.com/thumbs/dirt-bike-mad-skills-dirt-bike-mad-skills-512x512_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/dirt-bike-mad-skills",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Flying-Cars-Era",
+        "gameImage": "https://trynowgames.com/thumbs/flying-cars-era-flying-cars-era-512x384_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/flying-cars-era",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Sky-City-Riders",
+        "gameImage": "https://trynowgames.com/thumbs/sky-city-riders-sky-city-riders-512x384_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/sky-city-riders",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ultimate-Flying-Car",
+        "gameImage": "https://trynowgames.com/thumbs/ultimate-flying-car-ultimate-flying-car-203071_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/ultimate-flying-car",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Atv-Ultimate-Offroad",
+        "gameImage": "https://trynowgames.com/thumbs/atv-ultimate-offroad-atv-ultimate-offroad-512x512_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/atv-ultimate-offroad",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Nail-Art-Game",
+        "gameImage": "https://trynowgames.com/thumbs/nail-art-game-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/nail-art-game",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fish-Eat-Getting-Big",
+        "gameImage": "https://trynowgames.com/thumbs/fish-eat-getting-big-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/fish-eat-getting-big",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Xmas-Rooftop-Battles",
+        "gameImage": "https://trynowgames.com/thumbs/xmas-rooftop-battles-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/xmas-rooftop-battles",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Backgammonia",
+        "gameImage": "https://trynowgames.com/thumbs/backgammonia---online-backgammon-game-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/backgammonia",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Viking-Tomahawk",
+        "gameImage": "https://trynowgames.com/thumbs/viking-tomahawk-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/viking-tomahawk",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Disco-Sheep",
+        "gameImage": "https://trynowgames.com/thumbs/disco-sheep-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/disco-sheep",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Neon-Water",
+        "gameImage": "https://trynowgames.com/thumbs/neon-water-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/neon-water",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Color-Block",
+        "gameImage": "https://trynowgames.com/thumbs/color-block-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/color-block",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Shipnt-IO",
+        "gameImage": "https://trynowgames.com/thumbs/shipnt-io-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/shipnt-io",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Sort-Them-All-Game",
+        "gameImage": "https://trynowgames.com/thumbs/sort-them-all-game-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/sort-them-all-game",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Pingpong-Dot",
+        "gameImage": "https://trynowgames.com/thumbs/pingpong-dot-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/pingpong-dot",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Gang-Fall-Party",
+        "gameImage": "https://trynowgames.com/thumbs/gang-fall-party-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/gang-fall-party",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Nightmare-Runners",
+        "gameImage": "https://trynowgames.com/thumbs/nightmare-runners-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/nightmare-runners",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Air-Hockey-Glow--2-Players",
+        "gameImage": "https://trynowgames.com/thumbs/air-hockey-glow--2-players-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/air-hockey-glow--2-players",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Salon-Beauty-Makeup",
+        "gameImage": "https://trynowgames.com/thumbs/salon-beauty-makeup--512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/salon-beauty-makeup-",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fashion-Short-Hair-Dress-Up",
+        "gameImage": "https://trynowgames.com/thumbs/fashion-short-hair-dress-up-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/fashion-short-hair-dress-up",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ball-Runner-3d",
+        "gameImage": "https://trynowgames.com/thumbs/ball-runner-3d-512x384.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/ball-runner-3d",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Battle-Of-Tanks",
+        "gameImage": "https://trynowgames.com/thumbs/battle-of-tanks-battle-of-tanks-201726_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/battle-of-tanks",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Clash-Of-Tanks",
+        "gameImage": "https://trynowgames.com/thumbs/clash-of-tanks-clash-of-tanks-9399_726472_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/clash-of-tanks",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fireboy-&-Watergirl-6-Fairy-Temple",
+        "gameImage": "https://trynowgames.com/thumbs/fireboy-and-watergirl-6--fairy-temple-fireboy-and-watergirl-6--fairy-temple-205235_249477_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/fireboy-and-watergirl-6--fairy-temple",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Money-Movers",
+        "gameImage": "https://trynowgames.com/thumbs/money-movers-money-movers-8227_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/money-movers",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Hexagon-Fall",
+        "gameImage": "https://trynowgames.com/thumbs/hexagon-fall-hexagon-fall-hexagon-fall_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/hexagon-fall",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Snakes-And-Ladder",
+        "gameImage": "https://trynowgames.com/thumbs/snakes-and-ladder-snakes-and-ladder-512x512_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/snakes-and-ladder",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Battle-Wheels",
+        "gameImage": "https://trynowgames.com/thumbs/battle-wheels-battle-wheels-512x512_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/battle-wheels",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Carrom-Clash",
+        "gameImage": "https://trynowgames.com/thumbs/carrom-clash-carrom-clash-med_res_icon_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/carrom-clash",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fish-Eat-Fish",
+        "gameImage": "https://trynowgames.com/thumbs/fish-eat-fish-fish-eat-fish-512x512_small.webp",
+        "category": "2 Player Game",
+        "gameURL": "https://trynowgames.com/full/fish-eat-fish",
+        "desc": "2 Player Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Papa-S-Scooperia",
+        "gameImage": "https://trynowgames.com/thumbs/papa-s-scooperia-papa-s-scooperia-thumb150_webp_Scooperia_Logo_small.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/papa-s-scooperia",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Luxury-Bath-Design",
+        "gameImage": "https://trynowgames.com/thumbs/luxury-bath-design-luxury-bath-design-8206_small.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/luxury-bath-design",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bubble-Master",
+        "gameImage": "https://trynowgames.com/thumbs/bubble-master-bubble-master-64ace7abc2fb4e5d83e3acad20ac2403-512x512_small.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/bubble-master",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Mental-Math",
+        "gameImage": "https://trynowgames.com/thumbs/talking-tom-math-test-512x512.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/mental-math",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cute-Monster-Jump",
+        "gameImage": "https://trynowgames.com/thumbs/cute-monster-jump-745c948c565941318fd5cc9ca774aa92.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/cute-monster-jump",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Jumping-Angry-Ape",
+        "gameImage": "https://trynowgames.com/thumbs/jumping-angry-ape-8f74471bb5fccc52e0638033f3927fa3.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/jumping-angry-ape",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Monkey-Banana-Jump",
+        "gameImage": "https://trynowgames.com/thumbs/monkey-banana-jump-c8d36af4a271c17932a4ed879f06ca49.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/monkey-banana-jump",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Rise-Up",
+        "gameImage": "https://trynowgames.com/thumbs/rise-up-a4d9000ab71f65e56a5e76a006225c34.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/rise-up",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Jelly-Jump",
+        "gameImage": "https://trynowgames.com/thumbs/jelly-jump-7d0ce6074874f8335ed95cc7c3080ba0.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/jelly-jump",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Dino-Jump",
+        "gameImage": "https://trynowgames.com/thumbs/dino-jump-941bb8da924e77eba1d62e13451a08bc.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/dino-jump",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Piggy-Night",
+        "gameImage": "https://trynowgames.com/thumbs/piggy-night-5b7bce3b7722c281720b7240d6fa0766.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/piggy-night",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Run-Panda-Run",
+        "gameImage": "https://rozdhan.sfo2.cdn.digitaloceanspaces.com/Games/f400df3f4a153aab72c47f8854777f5f.png",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/run-panda-run",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Captain-Gold",
+        "gameImage": "https://trynowgames.com/thumbs/captain-gold-game-74ee27f96c4b67d58d34e078fce6e334.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/captain-gold",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Car-Drift",
+        "gameImage": "https://trynowgames.com/thumbs/retro-car-drift-512x384.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/car-drift",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Gold-Miner-Jack",
+        "gameImage": "https://trynowgames.com/thumbs/gold-miner-jack-thumb.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/gold-miner-jack",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Worms-Zone-A-Slithery-Snake",
+        "gameImage": "https://trynowgames.com/thumbs/worms-zone-a-slithery-snake-512x512.webp",
+        "category": "Casual Game",
+        "gameURL": "https://trynowgames.com/full/worms-zone-a-slithery-snake",
+        "desc": "Casual Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Run-Rich-3d",
+        "gameImage": "https://img.gamemonetize.com/o8f0q0mx5cdcotsylxy00zltykhehk83/512x512.jpg",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/run-rich-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Shortcut-Run",
+        "gameImage": "https://img.gamemonetize.com/naxo7r7gsx4kwbzacw4pcjgdi0vc06bn/512x384.jpg",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/shortcut-run",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Woodturning-Art",
+        "gameImage": "https://trynowgames.com/thumbs/woodturning-art-woodturning-art-512x512_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/woodturning-art",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fall-Bros",
+        "gameImage": "https://trynowgames.com/thumbs/fall-bros-fall-bros-512x512_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/fall-bros",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Uphill-Bus-Simulator-3d",
+        "gameImage": "https://trynowgames.com/thumbs/uphill-bus-simulator-3d-uphill-bus-simulator-3d-202198_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/uphill-bus-simulator-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bicycle-Stunt-3d",
+        "gameImage": "https://trynowgames.com/thumbs/bicycle-stunt-3d-bicycle-stunt-3d-512x512_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/bicycle-stunt-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bike-Simulator-3d",
+        "gameImage": "https://trynowgames.com/thumbs/bike-simulator-3d-bike-simulator-3d-512x512_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/bike-simulator-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Impostor",
+        "gameImage": "https://trynowgames.com/thumbs/impostor--impostor--512x512_small.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/impostor-",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cops-Escape",
+        "gameImage": "https://trynowgames.com/thumbs/cops-escape-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/cops-escape",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Farming-Missions-2023",
+        "gameImage": "https://trynowgames.com/thumbs/farming-missions-2023-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/farming-missions-2023",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fast-Bus-Ultimate-Parking-3d",
+        "gameImage": "https://trynowgames.com/thumbs/fast-bus-ultimate-parking-3d-2022--512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/fast-bus-ultimate-parking-3d-2022-",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Pet-Island",
+        "gameImage": "https://trynowgames.com/thumbs/pet-island-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/pet-island",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "World-Tour-Paris",
+        "gameImage": "https://trynowgames.com/thumbs/world-tour-paris-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/world-tour-paris",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Water-Color-Sort-Online",
+        "gameImage": "https://trynowgames.com/thumbs/water-color-sort-online-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/water-color-sort-online",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Monster-Tracks-Online",
+        "gameImage": "https://trynowgames.com/thumbs/monster-tracks-online-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/monster-tracks-online",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Parkour-In-The-Cave-3d",
+        "gameImage": "https://trynowgames.com/thumbs/parkour-in-the-cave-3d-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/parkour-in-the-cave-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Minicraft-Head-War",
+        "gameImage": "https://trynowgames.com/thumbs/minicraft--head-war-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/minicraft--head-war",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Rowing-Boat-3d",
+        "gameImage": "https://trynowgames.com/thumbs/rowing-boat-3d-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/rowing-boat-3d",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Jelly-Guys-World",
+        "gameImage": "https://trynowgames.com/thumbs/jelly-guys-world-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/jelly-guys-world",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bus-Parking-3d-Online",
+        "gameImage": "https://trynowgames.com/thumbs/bus-parking-3d-online-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/bus-parking-3d-online",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Mermaid-Chage-Princess",
+        "gameImage": "https://trynowgames.com/thumbs/mermaid-chage-princess-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/mermaid-chage-princess",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bus-Rush-Bus-Surfer",
+        "gameImage": "https://trynowgames.com/thumbs/bus-rush---bus-surfer-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/bus-rush---bus-surfer",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Liquid-Sorting",
+        "gameImage": "https://trynowgames.com/thumbs/liquid-sorting-512x384.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/liquid-sorting",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Tom-Jerry-Run",
+        "gameImage": "https://trynowgames.com/thumbs/tom---jerry-run-512x512.webp",
+        "category": "3D Game",
+        "gameURL": "https://trynowgames.com/full/tom---jerry-run",
+        "desc": "3D Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Extreme-Ball",
+        "gameImage": "https://trynowgames.com/thumbs/extreme-ball-extreme-ball-512x512_small.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/extreme-ball",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Idle-Mining-Empire",
+        "gameImage": "https://trynowgames.com/thumbs/idle-mining-empire-idle-mining-empire-512x512_small.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/idle-mining-empire",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cowboy-Runner",
+        "gameImage": "https://trynowgames.com/thumbs/cowboy-runner-512x384.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/cowboy-runner",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Subway-Princess-Run",
+        "gameImage": "https://trynowgames.com/thumbs/subway-princess-run-subway-princess-run-201171_small.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/subway-princess-run",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Tiny-Fishing",
+        "gameImage": "https://trynowgames.com/thumbs/tiny-fishing-tiny-fishing-512x512_small.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/tiny-fishing",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ball-Paint-3d",
+        "gameImage": "https://trynowgames.com/thumbs/ball-paint-3d-512x512.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/ball-paint-3d",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Snake-Io--Jeu-Serpent",
+        "gameImage": "https://trynowgames.com/thumbs/snake-io--jeu-serpent-512x384.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/snake-io--jeu-serpent",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bubble-Shooter-Jeux-Bubble",
+        "gameImage": "https://trynowgames.com/thumbs/bubble-shooter---jeux-bubble-512x384.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/bubble-shooter---jeux-bubble",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ball-Fall-2",
+        "gameImage": "https://trynowgames.com/thumbs/ball-fall-2-512x512.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/ball-fall-2",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Room-Escape-3d",
+        "gameImage": "https://trynowgames.com/thumbs/room-escape-3d-512x512.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/room-escape-3d",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Track-Control",
+        "gameImage": "https://trynowgames.com/thumbs/track-control-512x512.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/track-control",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Wormo-io",
+        "gameImage": "https://trynowgames.com/thumbs/wormo-io-512x512.webp",
+        "category": "Boys Game",
+        "gameURL": "https://trynowgames.com/full/wormo-io",
+        "desc": "Boys Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Outfit-Love-Queen",
+        "gameImage": "https://img.gamemonetize.com/ccs6vzer5tenmfy27vr7yepcr4t09yb1/512x512.jpg",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/outfit-love-queen",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Icing-On-Doll-Cake",
+        "gameImage": "https://trynowgames.com/thumbs/icing-on-doll-cake-icing-on-doll-cake-512x384_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/icing-on-doll-cake",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Princess-New-Spring-Trends",
+        "gameImage": "https://trynowgames.com/thumbs/princess-new-spring-trends-princess-new-spring-trends-8495_387194_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/princess-new-spring-trends",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Blonde-Princess-Massage-Makeup",
+        "gameImage": "https://trynowgames.com/thumbs/blonde-princess-massage-makeup-blonde-princess-massage-makeup-14037_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/blonde-princess-massage-makeup",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Dotted-Girl-New-Year-Makeup",
+        "gameImage": "https://trynowgames.com/thumbs/dotted-girl-new-year-makeup-dotted-girl-new-year-makeup-205308_519284_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/dotted-girl-new-year-makeup",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Tris-Homecoming-Dolly-Dressup",
+        "gameImage": "https://trynowgames.com/thumbs/tris-homecoming-dolly-dressup-h5-tris-homecoming-dolly-dressup-h5-8730_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/tris-homecoming-dolly-dressup-h5",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Mermaid-Princess-Coronation",
+        "gameImage": "https://trynowgames.com/thumbs/mermaid-princess-coronation-mermaid-princess-coronation-14042_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/mermaid-princess-coronation",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Couples-New-Year-Party",
+        "gameImage": "https://trynowgames.com/thumbs/couples-new-year-party-couples-new-year-party-8271_644364_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/couples-new-year-party",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Save-Kingdom-By-Fashion",
+        "gameImage": "https://trynowgames.com/thumbs/save-kingdom-by-fashion-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/save-kingdom-by-fashion",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Mermaid-Newborn-Baby-Care",
+        "gameImage": "https://trynowgames.com/thumbs/mermaid-newborn-baby-care-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/mermaid-newborn-baby-care",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Color-Reveal-Surprise-Doll",
+        "gameImage": "https://trynowgames.com/thumbs/color-reveal-surprise-doll-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/color-reveal-surprise-doll",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Donuts-Cooking-Challenge-Game",
+        "gameImage": "https://trynowgames.com/thumbs/donuts-cooking-challenge-game-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/donuts-cooking-challenge-game",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Valentine-Day-Couples-Goal",
+        "gameImage": "https://trynowgames.com/thumbs/valentine-day-couples-goal-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/valentine-day-couples-goal",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cooking-Center-Restaurant-Game",
+        "gameImage": "https://trynowgames.com/thumbs/cooking-center-restaurant-game-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/cooking-center-restaurant-game",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Romantic-Birthday-Party",
+        "gameImage": "https://trynowgames.com/thumbs/romantic-birthday-party-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/romantic-birthday-party",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Colorful-Braid-Hairstyle-Making",
+        "gameImage": "https://trynowgames.com/thumbs/colorful-braid-hairstyle-making-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/colorful-braid-hairstyle-making",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Baby-Care-For-Kids",
+        "gameImage": "https://trynowgames.com/thumbs/baby-care-for-kids-512x384.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/baby-care-for-kids",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fashion-Nail-Salon",
+        "gameImage": "https://trynowgames.com/thumbs/fashion-nail-salon-fashion-nail-salon-205371_583564_small.webp",
+        "category": "Girls Game",
+        "gameURL": "https://trynowgames.com/full/fashion-nail-salon",
+        "desc": "Girls Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Jewel-Block-Puzzle",
+        "gameImage": "https://img.gamemonetize.com/eag7l1be6ypfudnva02h4io0nj6853oj/512x512.jpg",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/jewel-block-puzzle---free-addictive-games",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Kittygram",
+        "gameImage": "https://img.gamemonetize.com/wm43az3123kq2ecatqjuv3mmoddq1j6m/512x512.jpg",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/kittygram",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Plumber-Duck",
+        "gameImage": "https://trynowgames.com/thumbs/plumber-duck-plumber-duck-512x512_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/plumber-duck",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Blob-Opera",
+        "gameImage": "https://trynowgames.com/thumbs/blob-opera-blob-opera-512x512_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/blob-opera",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Santa-S-Quest",
+        "gameImage": "https://trynowgames.com/thumbs/santa-s-quest-santa-s-quest-205406_741662_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/santa-s-quest",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Easter-Memory",
+        "gameImage": "https://trynowgames.com/thumbs/easter-memory-easter-memory-easter-memory_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/easter-memory",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Monopoly",
+        "gameImage": "https://trynowgames.com/thumbs/monopoly-monopoly-512x512_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/monopoly",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Big-Shot-Boxing",
+        "gameImage": "https://trynowgames.com/thumbs/big-shot-boxing-big-shot-boxing-512x512_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/big-shot-boxing",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "The-King-Of-War",
+        "gameImage": "https://trynowgames.com/thumbs/the-king-of-war-512x512.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/the-king-of-war",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cubic-Link-Exclusive",
+        "gameImage": "https://trynowgames.com/thumbs/cubic-link---exclusive-512x512.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/cubic-link---exclusive",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Light-Rays",
+        "gameImage": "https://trynowgames.com/thumbs/light-rays-921209ce23eea14d66a6f84c994ac71a.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/light-rays",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Body-Boxing-Race-3d",
+        "gameImage": "https://trynowgames.com/thumbs/body-boxing-race-3d-512x384.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/body-boxing-race-3d",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Play-Pinocchio-Bubble-Shooter-Games",
+        "gameImage": "https://trynowgames.com/thumbs/play-pinocchio-bubble-shooter-games-512x384.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/play-pinocchio-bubble-shooter-games",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Base-Defense-2",
+        "gameImage": "https://trynowgames.com/thumbs/base-defense-2-512x384.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/base-defense-2",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Caveman-Forest-Escape",
+        "gameImage": "https://trynowgames.com/thumbs/caveman-forest-escape-512x384.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/caveman-forest-escape",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bubble-Fish",
+        "gameImage": "https://trynowgames.com/thumbs/bubble-fish-bubble-fish-small_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/bubble-fish",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Domino-Falling",
+        "gameImage": "https://games.assets.gamepix.com/N1IN1/thumbnail/medium.png",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/domino-falling",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Emoji-Sort-Master",
+        "gameImage": "https://trynowgames.com/thumbs/emoji-sort-master-emoji-sort-master-512x384_small.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/emoji-sort-master",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Gravity-Ball-Game",
+        "gameImage": "https://trynowgames.com/thumbs/gravity-ball-game-512x512.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/gravity-ball-game",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Puzzle-Box",
+        "gameImage": "https://trynowgames.com/thumbs/puzzle-box-512x512.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/perfect-box",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Candy-Crush-Saga-King",
+        "gameImage": "https://trynowgames.com/thumbs/candy-crush-saga-king-512x512.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/candy-crush-saga-king",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Gold-Miner",
+        "gameImage": "https://trynowgames.com/thumbs/gold-miner-thumb.webp",
+        "category": "Puzzle Game",
+        "gameURL": "https://trynowgames.com/full/gold-miner",
+        "desc": "Puzzle Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Football-Tricks",
+        "gameImage": "https://trynowgames.com/thumbs/football-tricks-football-tricks-9437_small.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/football-tricks",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Baby-Hazel-Thanksgiving-Day",
+        "gameImage": "https://trynowgames.com/thumbs/baby-hazel-thanksgiving-day-baby-hazel-thanksgiving-day-10278_591285_small.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/baby-hazel-thanksgiving-day",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Rich-Shopping-3d-Game",
+        "gameImage": "https://trynowgames.com/thumbs/rich-shopping-3d-game-512x384.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/rich-shopping-3d-game",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Drift-Challenge",
+        "gameImage": "https://games.assets.gamepix.com/3H603/thumbnail/small.png",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/drift-challenge",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Superbike-Hero",
+        "gameImage": "https://games.assets.gamepix.com/0730R/thumbnail/small.png",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/superbike-hero",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Super-Coconut-Basket",
+        "gameImage": "https://games.assets.gamepix.com/U5A5S/thumbnail/small.png",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/super-coconut-basket",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ten-Pin-Bowling",
+        "gameImage": "https://games.assets.gamepix.com/5O5E4/thumbnail/small.png",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/ten-pin-bowling",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Car-Racerz",
+        "gameImage": "https://games.assets.gamepix.com/C06C4/thumbnail/small.png",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/car-racerz",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "3d-Bowling",
+        "gameImage": "https://trynowgames.com/thumbs/3d-bowling-3d-bowling-205264_941679_small.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/3d-bowling",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Taptap-Shots",
+        "gameImage": "https://trynowgames.com/thumbs/taptap-shots-taptap-shots-8164_871727_small.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/taptap-shots",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Wobbly-Boxing",
+        "gameImage": "https://trynowgames.com/thumbs/wobbly-boxing-512x384.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/wobbly-boxing",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Foosball-Kick",
+        "gameImage": "https://www.gamezop.com/_next/image?url=https%3A%2F%2Fstatic.gamezop.com%2FSk1Wyn6XqRH%2Fm%2Fcover.jpg&w=1920&q=75",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/foosball-kick",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "City-Cricket",
+        "gameImage": "https://www.gamezop.com/_next/image?url=https%3A%2F%2Fstatic.gamezop.com%2FHJP4afkvqJQ%2Fm%2Fcover.jpg&w=1920&q=75",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/city-cricket",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Pool-Master",
+        "gameImage": "https://www.gamezop.com/_next/image?url=https%3A%2F%2Fstatic.gamezop.com%2FhgempP8Sc%2Fm%2Fcover.jpg&w=1920&q=75",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/pool-master",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Cricket-Battle",
+        "gameImage": "https://trynowgames.com/thumbs/cricket-battle-29195068523f771d17d6e8976b7da3b1.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/cricket-battle",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Perfect-Goal",
+        "gameImage": "https://trynowgames.com/thumbs/perfect-goal-512x512.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/perfect-goal",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Billiards",
+        "gameImage": "https://trynowgames.com/thumbs/billiards-thumb.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/billiards",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Stickman-Table-Tennis",
+        "gameImage": "https://trynowgames.com/thumbs/stickman-table-tennis--thumb.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/stickman-table-tennis-",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Kick-The-Soccer-Ball",
+        "gameImage": "https://trynowgames.com/thumbs/kick-the-soccer-ball-512x384.webp",
+        "category": "Sports Game",
+        "gameURL": "https://trynowgames.com/full/kick-the-soccer-ball",
+        "desc": "Sports Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Fidget-Spinner--4-Players-Game",
+        "gameImage": "https://trynowgames.com/thumbs/fidget-spinner--4-players-game-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/fidget-spinner--4-players-game",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Classic-Tic-Tac-Toe",
+        "gameImage": "https://trynowgames.com/thumbs/classic-tic-tac-toe-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/classic-tic-tac-toe",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Triset-io",
+        "gameImage": "https://trynowgames.com/thumbs/triset-io-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/triset-io",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Wormate-Multiplayer-Duel",
+        "gameImage": "https://trynowgames.com/thumbs/wormate-multiplayer-duel-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/wormate-multiplayer-duel",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Bullet-Force--Action",
+        "gameImage": "https://trynowgames.com/thumbs/bullet-force---action-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/bullet-force---action",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Ludo-Game-Multiplayer",
+        "gameImage": "https://trynowgames.com/thumbs/ludo-game-multiplayer-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/ludo-game-multiplayer",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Dots-ii",
+        "gameImage": "https://trynowgames.com/thumbs/dots-ii-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/dots-ii",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Squid-Game-Multiplayer-Fighting",
+        "gameImage": "https://trynowgames.com/thumbs/squid-game-multiplayer-fighting-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/squid-game-multiplayer-fighting",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Irrational-Karate-Game-Online",
+        "gameImage": "https://trynowgames.com/thumbs/irrational-karate-game-online-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/irrational-karate-game-online",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Tonkwars-io",
+        "gameImage": "https://trynowgames.com/thumbs/tonkwars-io-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/tonkwars-io",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Santa-Fiity-Special",
+        "gameImage": "https://trynowgames.com/thumbs/santa-fiity-special-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/santa-fiity-special",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          },{
+        "gameType":"pk",
+        "gameName": "Counter-Wars",
+        "gameImage": "https://trynowgames.com/thumbs/counter-wars-512x384.webp",
+        "category": "MultiPlayers Game",
+        "gameURL": "https://trynowgames.com/full/counter-wars",
+        "desc": "MultiPlayers Game",
+        "isNew": false
+          }
+        ]
+}

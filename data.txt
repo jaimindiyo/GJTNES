@@ -7,7 +7,7 @@
         "category": "Popular Game",
         "gameURL": "https://trynowgames.com/full/-minecraft-online",
         "desc": "Popular Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Subway-Surfers",
@@ -15,7 +15,7 @@
         "category": "Popular Game",
         "gameURL": "https://trynowgames.com/full/subway-surfers",
         "desc": "Popular Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Temple-Run",
@@ -31,7 +31,7 @@
         "category": "Popular Game",
         "gameURL": "https://trynowgames.com/full/slap-fest-games",
         "desc": "Popular Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Pro-Fairy-Princess-Dress-Up-Vs-Witch-Makeup",
@@ -55,7 +55,7 @@
         "category": "Popular Game",
         "gameURL": "https://trynowgames.com/full/nail-runner",
         "desc": "Popular Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Fruit-Chop",
@@ -95,7 +95,7 @@
         "category": "Popular Game",
         "gameURL": "https://trynowgames.com/full/snake-run",
         "desc": "Popular Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Airplane-Parking-Mania-3d",
@@ -175,7 +175,7 @@
         "category": "2 Player Game",
         "gameURL": "https://trynowgames.com/full/atv-ultimate-offroad",
         "desc": "2 Player Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Nail-Art-Game",
@@ -247,7 +247,7 @@
         "category": "2 Player Game",
         "gameURL": "https://trynowgames.com/full/shipnt-io",
         "desc": "2 Player Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Sort-Them-All-Game",
@@ -295,7 +295,7 @@
         "category": "2 Player Game",
         "gameURL": "https://trynowgames.com/full/salon-beauty-makeup-",
         "desc": "2 Player Game",
-        "isNew": false
+        "isNew": true
           },{
         "gameType":"pk",
         "gameName": "Fashion-Short-Hair-Dress-Up",
